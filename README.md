@@ -11,3 +11,7 @@ Gostaria de apresentar para vocês dois dashboards criados no Tableau.  Nesses d
  Nesse outro dash criado em Power BI, foi analisado o faturamento, metas, contas inativas, número de clientes desempregados, cidade de cada cliente e a idade média de usuários de uma livraria.
  
  https://app.powerbi.com/view?r=eyJrIjoiZWI0N2IzODYtNjE0My00MGJiLWIxODUtMmEyNWNlMTc3YWFjIiwidCI6IjNmOTU1ZDM1LTZhYzEtNDY4MS05ZTNhLWFhNmI0MmFiNDU4NiJ9
+ 
+Mais um dashboard feito no Power BI, aqui foi analisado os dados de um E-commerce. Analisamos a frequência do tipo de pagamento e a evolução dos pedidos feitos na E-commerce.
+
+https://app.powerbi.com/view?r=eyJrIjoiMzA5Mzg4NzEtMGY3ZC00NmE1LWI4ZWQtMTFjYmVhNzBjMTFkIiwidCI6IjNmOTU1ZDM1LTZhYzEtNDY4MS05ZTNhLWFhNmI0MmFiNDU4NiJ9
